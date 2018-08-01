@@ -8,7 +8,6 @@ categories: posts
 > About <font color="red">gogotr</font>
 
 - IOS개발자가 되고 싶은 .NET개발자
-<br/>
 
 - Skill
   * C#
@@ -18,7 +17,6 @@ categories: posts
   * JAVA
   * ASP.NET, .NET
 
-<br/>
 
 - Job
   * DuzonBizon / 2016.5 ~
