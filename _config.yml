@@ -1,3 +1,5 @@
-title: gogotr's blog
+## site setting
+title: gogotr's devlog
+name: gogotr's blog
 markdown: redcarpet
 pygments: true
