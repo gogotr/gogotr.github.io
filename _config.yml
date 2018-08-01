@@ -1,5 +1,8 @@
-## site setting
+# site setting
 title: gogotr's devlog
 name: gogotr's blog
 markdown: redcarpet
 pygments: true
+
+# google analytics
+google_analytics_id: UA-123259882-1
