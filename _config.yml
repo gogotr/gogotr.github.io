@@ -6,3 +6,7 @@ pygments: true
 
 # google analytics
 google_analytics_id: UA-123259882-1
+
+# Disqus
+disqus_url : http://disqus.com/by/disqus_S70ebkx8Gy
+disqus_id : disqus_S70ebkx8Gy
