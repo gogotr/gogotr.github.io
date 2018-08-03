@@ -1,7 +1,7 @@
 # site setting
 title: gogotr's devlog
 name: gogotr's blog
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 
 # google analytics
