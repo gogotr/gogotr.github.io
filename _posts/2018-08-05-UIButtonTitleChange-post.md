@@ -33,7 +33,7 @@ Constants describing the state of a control.
 
 라고 한다. 그럼 컨트롤들은 어떠한 상태를 가지고 있는가 살펴보자
 
-![UIControlState](./UIControlState.png)
+![UIControlState](./images/UIControlState.png)
 
 위와 같이 총 7개의 상수가 존재한다  
 각각의 의미를 알아보자
