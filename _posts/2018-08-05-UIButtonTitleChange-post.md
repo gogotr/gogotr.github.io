@@ -23,12 +23,11 @@ startButton.setTitle(“Stop”, for: UIControlState.normal)
 
 애플 공식 문서로 확인 을 해보자
 
-<pre>
-<code>
+```
 * Structure
 - UIControlState
-Constants describing the state of a control.<code>
-</pre>
+Constants describing the state of a control.
+```
 
 >  컨트롤의 상태를 설명하는 상수
 
