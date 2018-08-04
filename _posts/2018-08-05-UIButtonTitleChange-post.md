@@ -51,35 +51,35 @@ The normal, or default state of a control—that is, enabled but neither selecte
 **컨트롤을 선택하고 있을경우 이벤트가 발생한다..**
 꾹 누르고 있으면 해당 이벤트들이 발생한다.
 
-3. disabled
- [static var disabled: UIControlState](apple-reference-documentation://hsFhBCJA3W)
-Disabled state of a control.
+3. disabled<br/>
+ [static var disabled: UIControlState](apple-reference-documentation://hsFhBCJA3W)<br/>
+Disabled state of a control.<br/>
 **말그대로 비활성화 시킨다.**
 
-4. selected
- [static var selected: UIControlState](apple-reference-documentation://hsJ1xMyvqf)
-Selected state of a control.
-선택된 컨트롤 상태
-**여러가지 컨트롤이 있을 때 선택된 상태를 알려줌**
-테스트 해봣는데 title이 변경이 안된다...? 뭐지?
+4. selected<br/>
+ [static var selected: UIControlState](apple-reference-documentation://hsJ1xMyvqf)<br/>
+Selected state of a control.<br/>
+선택된 컨트롤 상태<br/>
+**여러가지 컨트롤이 있을 때 선택된 상태를 알려줌**<br/>
+테스트 해봣는데 title이 변경이 안된다...? 뭐지?<br/>
 
-5. focused
- [static var focused: UIControlState](apple-reference-documentation://hsnHv89VWq)
-Focused state of a control.
-포커스된 컨트롤의 상태
-**포커스를 수신하면 해당 상태로 값을 변경한다.**
+5. focused<br/>
+ [static var focused: UIControlState](apple-reference-documentation://hsnHv89VWq)<br/>
+Focused state of a control.<br/>
+포커스된 컨트롤의 상태<br/>
+**포커스를 수신하면 해당 상태로 값을 변경한다.**<br/>
 
-6. application
- [static var application: UIControlState](apple-reference-documentation://hsCZCKhQ7E)
-Additional control-state flags available for application use.
-앱이 사용할 수 있는 추가적인 컨트롤의 상태값을 말한다.
-잘 모르겠다...
+6. application<br/>
+ [static var application: UIControlState](apple-reference-documentation://hsCZCKhQ7E)<br/>
+Additional control-state flags available for application use.<br/>
+앱이 사용할 수 있는 추가적인 컨트롤의 상태값을 말한다.<br/>
+잘 모르겠다...<br/>
 
-7. reserved
- [static var reserved: UIControlState](apple-reference-documentation://hsKY4g9Wmw)
-Control-state flags reserved for internal framework use.
-내부 프레임워크에 사용되는 예약된 상태 값이라고 한다.
-어떤 부분에 사용되는 것인가...
+7. reserved<br/>
+ [static var reserved: UIControlState](apple-reference-documentation://hsKY4g9Wmw)<br/>
+Control-state flags reserved for internal framework use.<br/>
+내부 프레임워크에 사용되는 예약된 상태 값이라고 한다.<br/>
+어떤 부분에 사용되는 것인가...<br/>
 
 
 총 7개의 상태가 있는데 6, 7 번을 제외하고는 어떤상태인지 알 수 있었다.. 그러나 application, reserved에 대해서는 잘 모르겠다. 애플 공식 문서에도 저 문장 하나있고 끝이다...
