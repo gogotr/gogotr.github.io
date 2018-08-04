@@ -37,19 +37,19 @@ Constants describing the state of a control.
 각각의 의미를 알아보자
 
 
-1. normal
- [static var normal: UIControlState](apple-reference-documentation://hsOohbJNGp)
-The normal, or default state of a control—that is, enabled but neither selected nor highlighted.
-**노말 상태, 즉 컨트롤의 디폴트 상태를 말한다**
-사용상태지만 선택되지도 강조되지도 않는 상태를 말한다.
-그냥 컨트롤 생성 했을 그대로의 상태를 말하는 것 같다.
+1. normal<br/>
+ [static var normal: UIControlState](apple-reference-documentation://hsOohbJNGp)<br/>
+The normal, or default state of a control—that is, enabled but neither selected nor highlighted.<br/>
+**노말 상태, 즉 컨트롤의 디폴트 상태를 말한다**<br/>
+사용상태지만 선택되지도 강조되지도 않는 상태를 말한다.<br/>
+그냥 컨트롤 생성 했을 그대로의 상태를 말하는 것 같다.<br/>
 
-2. highlighted
- [static var highlighted: UIControlState](apple-reference-documentation://hsR9R_AZcL)
- Highlighted state of a control.
-강조된 컨트롤의 상태
-**컨트롤을 선택하고 있을경우 이벤트가 발생한다..**
-꾹 누르고 있으면 해당 이벤트들이 발생한다.
+2. highlighted<br/>
+ [static var highlighted: UIControlState](apple-reference-documentation://hsR9R_AZcL)<br/>
+ Highlighted state of a control.<br/>
+강조된 컨트롤의 상태<br/>
+**컨트롤을 선택하고 있을경우 이벤트가 발생한다..**<br/>
+꾹 누르고 있으면 해당 이벤트들이 발생한다.<br/>
 
 3. disabled<br/>
  [static var disabled: UIControlState](apple-reference-documentation://hsFhBCJA3W)<br/>
