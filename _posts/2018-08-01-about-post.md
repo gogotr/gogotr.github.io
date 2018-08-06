@@ -22,3 +22,11 @@ categories: posts
 
 - Job
   * DuzonBizon / 2016.5 ~
+
+
+- Interest Fields
+  - Serverless Architecture
+  - IOS
+  - React, Vue.js
+  - hadoop, spark
+  - aws, gcp
