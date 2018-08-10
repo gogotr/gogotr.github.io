@@ -9,8 +9,6 @@ categories: posts
 
 > About <font color="red">gogotr</font>
 
-- IOS개발자가 되고 싶은 .NET개발자
-
 - Skill
   * C#
   * SWIFT4
